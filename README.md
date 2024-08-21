@@ -14,15 +14,7 @@ This is a simple Node.js and Express.js API for managing products in a store. Th
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/product-management-api.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd product-management-api
-   ```
-3. Install the dependencies:
+  - Install the dependencies:
    ```bash
    npm install
    ```
